@@ -15,7 +15,7 @@ const agents = [
     { name: "Skye", image: "images/Skye.png" },
     { name: "Yoru", image: "images/Yoru.png" },
     { name: "Astra", image: "images/Astra.png" },
-    { name: "KAY/O", image: "images/KAYO.png" },
+    { name: "KAY/O", image: "images/Kayo.png" },
     { name: "Chamber", image: "images/Chamber.png" },
     { name: "Neon", image: "images/Neon.png" },
     { name: "Fade", image: "images/Fade.png" },
@@ -23,7 +23,7 @@ const agents = [
     { name: "Gekko", image: "images/Gekko.png" },
     { name: "Iso", image: "images/Iso.png" },
     { name: "Clove", image: "images/Clove.png" },
-    { name: "DeadLock", image: "images/DeadLock.png" },
+    { name: "DeadLock", image: "images/Deadlock.png" },
 ];
 
 function generateAgent() {
