@@ -1,0 +1,34 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+.center-content {
+    text-align: center;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+#agentDisplay {
+    font-size: 24px;
+    margin-top: 20px;
+}
+
+#agentImage {
+    margin-top: 20px;
+    border: 2px solid #333;
+    border-radius: 10px;
+    margin-left: auto; 
+    margin-right: auto; 
+    display: block; 
+}
